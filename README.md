@@ -1,1 +1,1 @@
-# FPGA-Based Architecture of MFCC-DNN Framework Applied For Vietnames Single Word Recognition
+# An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC
