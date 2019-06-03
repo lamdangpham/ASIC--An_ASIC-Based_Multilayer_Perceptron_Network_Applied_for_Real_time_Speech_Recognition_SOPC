@@ -9,7 +9,7 @@ We achieved a dynamic VLSI architecture of ANN successfully, which
 perform ability of reconfiguration as regards both multiple layers and multiply
 nodes per layer. 
 
-1/ Hierarchy
+1/ Hierarchy:
 
 |
 |---01_Publications_Docs : Contain published papers and Documentation
