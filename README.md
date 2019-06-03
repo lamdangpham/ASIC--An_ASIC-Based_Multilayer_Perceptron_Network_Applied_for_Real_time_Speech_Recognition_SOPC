@@ -1,6 +1,6 @@
 # An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC
 
-Work with Assoc. Professor Hoang Trang in “Develop an Artificial Neural Network
+Work for “Develop an Artificial Neural Network
 (ANN) digital hardware architecture applying Vietnam speech recognition
 automatically” project funded by Department Science and Technology of Ho Chi
 Minh City, Vietnam.
@@ -13,9 +13,7 @@ nodes per layer.
 
 |
 |---01_Publications_Docs : Contain published papers and Documentation
-
 |    |
-
 |    |--01_An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC.pdf : Paper_01 
 |    |
 |    |--02_2_Efficient Hardware Architecture for Single Neuron in Artificial Neural Network.pdf  : Paper_02
