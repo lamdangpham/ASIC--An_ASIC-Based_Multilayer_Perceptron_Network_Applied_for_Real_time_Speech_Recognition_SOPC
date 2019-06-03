@@ -12,8 +12,11 @@ nodes per layer.
 1/ Hierarchy
 
 |
+
 |---01_Publications_Docs : Contain published papers and Documentation
+
 |    |
+
 |    |--01_An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC.pdf : Paper_01 
 |    |
 |    |--02_2_Efficient Hardware Architecture for Single Neuron in Artificial Neural Network.pdf  : Paper_02
