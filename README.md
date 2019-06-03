@@ -1,5 +1,14 @@
 # An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC
 
+Work with Assoc. Professor Hoang Trang in “Develop an Artificial Neural Network
+(ANN) digital hardware architecture applying Vietnam speech recognition
+automatically” project funded by Department Science and Technology of Ho Chi
+Minh City, Vietnam.
+
+We achieved a dynamic VLSI architecture of ANN successfully, which
+perform ability of reconfiguration as regards both multiple layers and multiply
+nodes per layer. 
+
 1/ Hierarchy
 
 |
@@ -23,3 +32,4 @@ This system consits Feature Extraction (Mel-Frequency Ceptral Coefficients) and 
 + MFCC is implemented by Software (both Matlab and C). Matlab version is for training process on computer, and C version is for recognition on DE2 Kit (Altera).
 
 + MLP model is implemented by Verilog HDL. MLP model consist a lot of neural node and they show similar functions. The Paper_02 shows how to implement one neural node by Verilog HDL.
+
