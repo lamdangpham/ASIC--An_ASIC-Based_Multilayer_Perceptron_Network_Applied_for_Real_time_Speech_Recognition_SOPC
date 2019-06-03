@@ -12,7 +12,6 @@ nodes per layer.
 1/ Hierarchy
 
 |
-
 |---01_Publications_Docs : Contain published papers and Documentation
 
 |    |
