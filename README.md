@@ -1,4 +1,4 @@
-An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC
+#An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC
 
 Work for “Develop an Artificial Neural Network (ANN) digital hardware architecture applying Vietnam speech recognition automatically” project funded by Department Science and Technology of Ho Chi
 Minh City, Vietnam.
