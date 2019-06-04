@@ -1,11 +1,11 @@
-#An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC
+# An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC
 
 Work for “Develop an Artificial Neural Network (ANN) digital hardware architecture applying Vietnam speech recognition automatically” project funded by Department Science and Technology of Ho Chi
 Minh City, Vietnam.
 
 We achieved a dynamic VLSI architecture of ANN, which can re-configure both multiple layers and multiply nodes per layer. 
 
-1/ Hierarchy:
+# Hierarchy:
 
 01_Publications_Docs : Contain published papers and Documentation
 
@@ -19,7 +19,7 @@ We achieved a dynamic VLSI architecture of ANN, which can re-configure both mult
 
 README.md
 
-2/ Summary:
+# Summary:
 
 Section '02_Codes' contains code lines for the system mentioned in Paper_01. 
 This system consits Feature Extraction (Mel-Frequency Ceptral Coefficients) and Classifier (Multi-layer perceptron - MLP Model).
