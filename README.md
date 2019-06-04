@@ -7,18 +7,17 @@ We achieved a dynamic VLSI architecture of ANN, which can re-configure both mult
 
 1/ Hierarchy:
 
-|
-|---01_Publications_Docs : Contain published papers and Documentation
-|    |
-|    |--01_An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC.pdf : Paper_01 
-|    |
-|    |--02_2_Efficient Hardware Architecture for Single Neuron in Artificial Neural Network.pdf  : Paper_02
-|    |
-|    |--03_Short_Introduction.pdf : Short Introduction of Neural Network archiecture mentioned in Paper_01
-|
-|---02_Codes : Contain coding package for the system mentioned in Paper_01
-|
-|-README.md
+01_Publications_Docs : Contain published papers and Documentation
+
+01_Publications_Docs/01_An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC.pdf : Paper_01 
+
+01_Publications_Docs/02_2_Efficient Hardware Architecture for Single Neuron in Artificial Neural Network.pdf  : Paper_02
+
+01_Publications_Docs/03_Short_Introduction.pdf : Short Introduction of Neural Network archiecture mentioned in Paper_01
+
+02_Codes : Contain coding package for the system mentioned in Paper_01
+
+README.md
 
 2/ Summary:
 
