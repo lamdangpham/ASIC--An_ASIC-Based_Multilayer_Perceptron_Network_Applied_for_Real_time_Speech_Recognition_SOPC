@@ -4,7 +4,7 @@ Work for “Develop an Artificial Neural Network (ANN) digital hardware architec
 
 We achieved a dynamic VLSI architecture of ANN, which can re-configure both multiple layers and multiply nodes per layer. 
 
-# Hierarchy:
+# Project Hierarchy:
 
 - 01_Publications_Docs : Contain published papers and Documentation
 
@@ -23,6 +23,6 @@ We achieved a dynamic VLSI architecture of ANN, which can re-configure both mult
 Section '02_Codes' contains code lines for the system mentioned in Paper_01. 
 This system consits Feature Extraction (Mel-Frequency Ceptral Coefficients) and Classifier (Multi-layer perceptron - MLP Model).
 
-+ MFCC is implemented by Software (both Matlab and C). Matlab version is for training process on computer, and C version is for recognition on DE2 Kit (Altera).
+  + MFCC feature is implemented by Software (both Matlab and C). Matlab version is for training process on computer, and C version is for SOPC system loading on DE2 Kit (Altera).
 
-+ MLP model is implemented by Verilog HDL. The Paper_02 shows how to implement one neural node by Verilog HDL that is integrated in MLP
+  + MLP classifier model is implemented by Verilog HDL. The 'Paper_02' shows how to implement one neural node by Verilog HDL that is integrated in MLP.
