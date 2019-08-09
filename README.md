@@ -1,23 +1,22 @@
-# An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC
+# An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition (SOPC structure based on Quartus-Altera)
 
-Work for “Develop an Artificial Neural Network (ANN) digital hardware architecture applying Vietnam speech recognition automatically” project funded by Department Science and Technology of Ho Chi
-Minh City, Vietnam.
+Work for “Develop an Artificial Neural Network (ANN) digital hardware architecture applying Vietnam speech recognition automatically” project funded by Department Science and Technology of Ho Chi Minh City, Vietnam.
 
 We achieved a dynamic VLSI architecture of ANN, which can re-configure both multiple layers and multiply nodes per layer. 
 
 # Hierarchy:
 
-01_Publications_Docs : Contain published papers and Documentation
+- 01_Publications_Docs : Contain published papers and Documentation
 
-01_Publications_Docs/01_An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC.pdf : Paper_01 
+   + 01_Publications_Docs/01_An ASIC-Based Artificial Neural Network Applied Real-time Speech Recognition SOPC.pdf : Paper_01 
 
-01_Publications_Docs/02_2_Efficient Hardware Architecture for Single Neuron in Artificial Neural Network.pdf  : Paper_02
+   + 01_Publications_Docs/02_2_Efficient Hardware Architecture for Single Neuron in Artificial Neural Network.pdf  : Paper_02
 
-01_Publications_Docs/03_Short_Introduction.pdf : Short Introduction of Neural Network archiecture mentioned in Paper_01
+   + 01_Publications_Docs/03_Short_Introduction.pdf : Short Introduction of Neural Network archiecture mentioned in Paper_01
 
-02_Codes : Contain coding package for the system mentioned in Paper_01
+- 02_Codes : Contain coding package for the system mentioned in Paper_01
 
-README.md
+- README.md
 
 # Summary:
 
